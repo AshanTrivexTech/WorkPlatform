@@ -3,28 +3,72 @@
   "WorkspaceRootPath": "D:\\TrivexTech Pvt Ltd\\Project\\WorkPlatform\\Backend\\WorkPlatformBn\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\TrivexTech Pvt Ltd\\Project\\WorkPlatform\\Backend\\WorkPlatformBn\\WorkPlatformBn\\Migrations\\20250807080408_initialupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WorkPlatformBn\\Migrations\\20250807080408_initialupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{717C7C7B-FD22-425B-9523-DDC3FAFDD9D1}|WorkPlatformBn\\WorkPlatformBn.csproj|d:\\trivextech pvt ltd\\project\\workplatform\\backend\\workplatformbn\\workplatformbn\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{717C7C7B-FD22-425B-9523-DDC3FAFDD9D1}|WorkPlatformBn\\WorkPlatformBn.csproj|solutionrelative:workplatformbn\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{717C7C7B-FD22-425B-9523-DDC3FAFDD9D1}|WorkPlatformBn\\WorkPlatformBn.csproj|d:\\trivextech pvt ltd\\project\\workplatform\\backend\\workplatformbn\\workplatformbn\\model\\workercategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{717C7C7B-FD22-425B-9523-DDC3FAFDD9D1}|WorkPlatformBn\\WorkPlatformBn.csproj|solutionrelative:workplatformbn\\model\\workercategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{717C7C7B-FD22-425B-9523-DDC3FAFDD9D1}|WorkPlatformBn\\WorkPlatformBn.csproj|d:\\trivextech pvt ltd\\project\\workplatform\\backend\\workplatformbn\\workplatformbn\\utility\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{717C7C7B-FD22-425B-9523-DDC3FAFDD9D1}|WorkPlatformBn\\WorkPlatformBn.csproj|solutionrelative:workplatformbn\\utility\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{717C7C7B-FD22-425B-9523-DDC3FAFDD9D1}|WorkPlatformBn\\WorkPlatformBn.csproj|d:\\trivextech pvt ltd\\project\\workplatform\\backend\\workplatformbn\\workplatformbn\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{717C7C7B-FD22-425B-9523-DDC3FAFDD9D1}|WorkPlatformBn\\WorkPlatformBn.csproj|solutionrelative:workplatformbn\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{717C7C7B-FD22-425B-9523-DDC3FAFDD9D1}|WorkPlatformBn\\WorkPlatformBn.csproj|d:\\trivextech pvt ltd\\project\\workplatform\\backend\\workplatformbn\\workplatformbn\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{717C7C7B-FD22-425B-9523-DDC3FAFDD9D1}|WorkPlatformBn\\WorkPlatformBn.csproj|solutionrelative:workplatformbn\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{717C7C7B-FD22-425B-9523-DDC3FAFDD9D1}|WorkPlatformBn\\WorkPlatformBn.csproj|d:\\trivextech pvt ltd\\project\\workplatform\\backend\\workplatformbn\\workplatformbn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{717C7C7B-FD22-425B-9523-DDC3FAFDD9D1}|WorkPlatformBn\\WorkPlatformBn.csproj|solutionrelative:workplatformbn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{717C7C7B-FD22-425B-9523-DDC3FAFDD9D1}|WorkPlatformBn\\WorkPlatformBn.csproj|d:\\trivextech pvt ltd\\project\\workplatform\\backend\\workplatformbn\\workplatformbn\\utility\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{717C7C7B-FD22-425B-9523-DDC3FAFDD9D1}|WorkPlatformBn\\WorkPlatformBn.csproj|solutionrelative:workplatformbn\\utility\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{717C7C7B-FD22-425B-9523-DDC3FAFDD9D1}|WorkPlatformBn\\WorkPlatformBn.csproj|d:\\trivextech pvt ltd\\project\\workplatform\\backend\\workplatformbn\\workplatformbn\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{717C7C7B-FD22-425B-9523-DDC3FAFDD9D1}|WorkPlatformBn\\WorkPlatformBn.csproj|solutionrelative:workplatformbn\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{717C7C7B-FD22-425B-9523-DDC3FAFDD9D1}|WorkPlatformBn\\WorkPlatformBn.csproj|d:\\trivextech pvt ltd\\project\\workplatform\\backend\\workplatformbn\\workplatformbn\\model\\response\\userresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{717C7C7B-FD22-425B-9523-DDC3FAFDD9D1}|WorkPlatformBn\\WorkPlatformBn.csproj|solutionrelative:workplatformbn\\model\\response\\userresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{717C7C7B-FD22-425B-9523-DDC3FAFDD9D1}|WorkPlatformBn\\WorkPlatformBn.csproj|d:\\trivextech pvt ltd\\project\\workplatform\\backend\\workplatformbn\\workplatformbn\\model\\request\\userrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{717C7C7B-FD22-425B-9523-DDC3FAFDD9D1}|WorkPlatformBn\\WorkPlatformBn.csproj|solutionrelative:workplatformbn\\model\\request\\userrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{717C7C7B-FD22-425B-9523-DDC3FAFDD9D1}|WorkPlatformBn\\WorkPlatformBn.csproj|d:\\trivextech pvt ltd\\project\\workplatform\\backend\\workplatformbn\\workplatformbn\\model\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{717C7C7B-FD22-425B-9523-DDC3FAFDD9D1}|WorkPlatformBn\\WorkPlatformBn.csproj|solutionrelative:workplatformbn\\model\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{717C7C7B-FD22-425B-9523-DDC3FAFDD9D1}|WorkPlatformBn\\WorkPlatformBn.csproj|d:\\trivextech pvt ltd\\project\\workplatform\\backend\\workplatformbn\\workplatformbn\\model\\request\\loginrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{717C7C7B-FD22-425B-9523-DDC3FAFDD9D1}|WorkPlatformBn\\WorkPlatformBn.csproj|solutionrelative:workplatformbn\\model\\request\\loginrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{717C7C7B-FD22-425B-9523-DDC3FAFDD9D1}|WorkPlatformBn\\WorkPlatformBn.csproj|d:\\trivextech pvt ltd\\project\\workplatform\\backend\\workplatformbn\\workplatformbn\\utility\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{717C7C7B-FD22-425B-9523-DDC3FAFDD9D1}|WorkPlatformBn\\WorkPlatformBn.csproj|solutionrelative:workplatformbn\\utility\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{717C7C7B-FD22-425B-9523-DDC3FAFDD9D1}|WorkPlatformBn\\WorkPlatformBn.csproj|d:\\trivextech pvt ltd\\project\\workplatform\\backend\\workplatformbn\\workplatformbn\\model\\request\\categoryrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{717C7C7B-FD22-425B-9523-DDC3FAFDD9D1}|WorkPlatformBn\\WorkPlatformBn.csproj|solutionrelative:workplatformbn\\model\\request\\categoryrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{717C7C7B-FD22-425B-9523-DDC3FAFDD9D1}|WorkPlatformBn\\WorkPlatformBn.csproj|d:\\trivextech pvt ltd\\project\\workplatform\\backend\\workplatformbn\\workplatformbn\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{717C7C7B-FD22-425B-9523-DDC3FAFDD9D1}|WorkPlatformBn\\WorkPlatformBn.csproj|solutionrelative:workplatformbn\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{717C7C7B-FD22-425B-9523-DDC3FAFDD9D1}|WorkPlatformBn\\WorkPlatformBn.csproj|d:\\trivextech pvt ltd\\project\\workplatform\\backend\\workplatformbn\\workplatformbn\\model\\workercategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{717C7C7B-FD22-425B-9523-DDC3FAFDD9D1}|WorkPlatformBn\\WorkPlatformBn.csproj|solutionrelative:workplatformbn\\model\\workercategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{717C7C7B-FD22-425B-9523-DDC3FAFDD9D1}|WorkPlatformBn\\WorkPlatformBn.csproj|d:\\trivextech pvt ltd\\project\\workplatform\\backend\\workplatformbn\\workplatformbn\\common\\statusmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{717C7C7B-FD22-425B-9523-DDC3FAFDD9D1}|WorkPlatformBn\\WorkPlatformBn.csproj|solutionrelative:workplatformbn\\common\\statusmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{717C7C7B-FD22-425B-9523-DDC3FAFDD9D1}|WorkPlatformBn\\WorkPlatformBn.csproj|d:\\trivextech pvt ltd\\project\\workplatform\\backend\\workplatformbn\\workplatformbn\\common\\baseresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{717C7C7B-FD22-425B-9523-DDC3FAFDD9D1}|WorkPlatformBn\\WorkPlatformBn.csproj|solutionrelative:workplatformbn\\common\\baseresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{717C7C7B-FD22-425B-9523-DDC3FAFDD9D1}|WorkPlatformBn\\WorkPlatformBn.csproj|d:\\trivextech pvt ltd\\project\\workplatform\\backend\\workplatformbn\\workplatformbn\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{717C7C7B-FD22-425B-9523-DDC3FAFDD9D1}|WorkPlatformBn\\WorkPlatformBn.csproj|solutionrelative:workplatformbn\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{717C7C7B-FD22-425B-9523-DDC3FAFDD9D1}|WorkPlatformBn\\WorkPlatformBn.csproj|d:\\trivextech pvt ltd\\project\\workplatform\\backend\\workplatformbn\\workplatformbn\\model\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{717C7C7B-FD22-425B-9523-DDC3FAFDD9D1}|WorkPlatformBn\\WorkPlatformBn.csproj|solutionrelative:workplatformbn\\model\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,37 +78,180 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20250807080408_initialupdate.cs",
-              "DocumentMoniker": "D:\\TrivexTech Pvt Ltd\\Project\\WorkPlatform\\Backend\\WorkPlatformBn\\WorkPlatformBn\\Migrations\\20250807080408_initialupdate.cs",
-              "RelativeDocumentMoniker": "WorkPlatformBn\\Migrations\\20250807080408_initialupdate.cs",
-              "ToolTip": "D:\\TrivexTech Pvt Ltd\\Project\\WorkPlatform\\Backend\\WorkPlatformBn\\WorkPlatformBn\\Migrations\\20250807080408_initialupdate.cs",
-              "RelativeToolTip": "WorkPlatformBn\\Migrations\\20250807080408_initialupdate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "JwtTokenGenerator.cs",
+              "DocumentMoniker": "D:\\TrivexTech Pvt Ltd\\Project\\WorkPlatform\\Backend\\WorkPlatformBn\\WorkPlatformBn\\Utility\\JwtTokenGenerator.cs",
+              "RelativeDocumentMoniker": "WorkPlatformBn\\Utility\\JwtTokenGenerator.cs",
+              "ToolTip": "D:\\TrivexTech Pvt Ltd\\Project\\WorkPlatform\\Backend\\WorkPlatformBn\\WorkPlatformBn\\Utility\\JwtTokenGenerator.cs",
+              "RelativeToolTip": "WorkPlatformBn\\Utility\\JwtTokenGenerator.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwBQAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T08:04:08.289Z",
+              "WhenOpened": "2025-08-07T12:49:00.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginRequestModel.cs",
+              "DocumentMoniker": "D:\\TrivexTech Pvt Ltd\\Project\\WorkPlatform\\Backend\\WorkPlatformBn\\WorkPlatformBn\\Model\\Request\\LoginRequestModel.cs",
+              "RelativeDocumentMoniker": "WorkPlatformBn\\Model\\Request\\LoginRequestModel.cs",
+              "ToolTip": "D:\\TrivexTech Pvt Ltd\\Project\\WorkPlatform\\Backend\\WorkPlatformBn\\WorkPlatformBn\\Model\\Request\\LoginRequestModel.cs",
+              "RelativeToolTip": "WorkPlatformBn\\Model\\Request\\LoginRequestModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T12:40:49.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoryRequestModel.cs",
+              "DocumentMoniker": "D:\\TrivexTech Pvt Ltd\\Project\\WorkPlatform\\Backend\\WorkPlatformBn\\WorkPlatformBn\\Model\\Request\\CategoryRequestModel.cs",
+              "RelativeDocumentMoniker": "WorkPlatformBn\\Model\\Request\\CategoryRequestModel.cs",
+              "ToolTip": "D:\\TrivexTech Pvt Ltd\\Project\\WorkPlatform\\Backend\\WorkPlatformBn\\WorkPlatformBn\\Model\\Request\\CategoryRequestModel.cs",
+              "RelativeToolTip": "WorkPlatformBn\\Model\\Request\\CategoryRequestModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T12:37:27.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TrivexTech Pvt Ltd\\Project\\WorkPlatform\\Backend\\WorkPlatformBn\\WorkPlatformBn\\Program.cs",
+              "RelativeDocumentMoniker": "WorkPlatformBn\\Program.cs",
+              "ToolTip": "D:\\TrivexTech Pvt Ltd\\Project\\WorkPlatform\\Backend\\WorkPlatformBn\\WorkPlatformBn\\Program.cs",
+              "RelativeToolTip": "WorkPlatformBn\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAcwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T12:23:54.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StatusMessage.cs",
+              "DocumentMoniker": "D:\\TrivexTech Pvt Ltd\\Project\\WorkPlatform\\Backend\\WorkPlatformBn\\WorkPlatformBn\\Common\\StatusMessage.cs",
+              "RelativeDocumentMoniker": "WorkPlatformBn\\Common\\StatusMessage.cs",
+              "ToolTip": "D:\\TrivexTech Pvt Ltd\\Project\\WorkPlatform\\Backend\\WorkPlatformBn\\WorkPlatformBn\\Common\\StatusMessage.cs",
+              "RelativeToolTip": "WorkPlatformBn\\Common\\StatusMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T12:20:45.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "D:\\TrivexTech Pvt Ltd\\Project\\WorkPlatform\\Backend\\WorkPlatformBn\\WorkPlatformBn\\Utility\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "WorkPlatformBn\\Utility\\PasswordHasher.cs",
+              "ToolTip": "D:\\TrivexTech Pvt Ltd\\Project\\WorkPlatform\\Backend\\WorkPlatformBn\\WorkPlatformBn\\Utility\\PasswordHasher.cs",
+              "RelativeToolTip": "WorkPlatformBn\\Utility\\PasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T12:19:19.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\TrivexTech Pvt Ltd\\Project\\WorkPlatform\\Backend\\WorkPlatformBn\\WorkPlatformBn\\Service\\UserService.cs",
+              "RelativeDocumentMoniker": "WorkPlatformBn\\Service\\UserService.cs",
+              "ToolTip": "D:\\TrivexTech Pvt Ltd\\Project\\WorkPlatform\\Backend\\WorkPlatformBn\\WorkPlatformBn\\Service\\UserService.cs",
+              "RelativeToolTip": "WorkPlatformBn\\Service\\UserService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAgwCgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T12:16:06.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BaseResponseModel.cs",
+              "DocumentMoniker": "D:\\TrivexTech Pvt Ltd\\Project\\WorkPlatform\\Backend\\WorkPlatformBn\\WorkPlatformBn\\Common\\BaseResponseModel.cs",
+              "RelativeDocumentMoniker": "WorkPlatformBn\\Common\\BaseResponseModel.cs",
+              "ToolTip": "D:\\TrivexTech Pvt Ltd\\Project\\WorkPlatform\\Backend\\WorkPlatformBn\\WorkPlatformBn\\Common\\BaseResponseModel.cs",
+              "RelativeToolTip": "WorkPlatformBn\\Common\\BaseResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T12:14:24.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserResponseModel.cs",
+              "DocumentMoniker": "D:\\TrivexTech Pvt Ltd\\Project\\WorkPlatform\\Backend\\WorkPlatformBn\\WorkPlatformBn\\Model\\Response\\UserResponseModel.cs",
+              "RelativeDocumentMoniker": "WorkPlatformBn\\Model\\Response\\UserResponseModel.cs",
+              "ToolTip": "D:\\TrivexTech Pvt Ltd\\Project\\WorkPlatform\\Backend\\WorkPlatformBn\\WorkPlatformBn\\Model\\Response\\UserResponseModel.cs",
+              "RelativeToolTip": "WorkPlatformBn\\Model\\Response\\UserResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T12:13:46.067Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\TrivexTech Pvt Ltd\\Project\\WorkPlatform\\Backend\\WorkPlatformBn\\WorkPlatformBn\\Interface\\IUserService.cs",
+              "RelativeDocumentMoniker": "WorkPlatformBn\\Interface\\IUserService.cs",
+              "ToolTip": "D:\\TrivexTech Pvt Ltd\\Project\\WorkPlatform\\Backend\\WorkPlatformBn\\WorkPlatformBn\\Interface\\IUserService.cs",
+              "RelativeToolTip": "WorkPlatformBn\\Interface\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T12:13:20.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AutomapperProfile.cs",
+              "DocumentMoniker": "D:\\TrivexTech Pvt Ltd\\Project\\WorkPlatform\\Backend\\WorkPlatformBn\\WorkPlatformBn\\Utility\\AutomapperProfile.cs",
+              "RelativeDocumentMoniker": "WorkPlatformBn\\Utility\\AutomapperProfile.cs",
+              "ToolTip": "D:\\TrivexTech Pvt Ltd\\Project\\WorkPlatform\\Backend\\WorkPlatformBn\\WorkPlatformBn\\Utility\\AutomapperProfile.cs",
+              "RelativeToolTip": "WorkPlatformBn\\Utility\\AutomapperProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T12:12:07.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\TrivexTech Pvt Ltd\\Project\\WorkPlatform\\Backend\\WorkPlatformBn\\WorkPlatformBn\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "WorkPlatformBn\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\TrivexTech Pvt Ltd\\Project\\WorkPlatform\\Backend\\WorkPlatformBn\\WorkPlatformBn\\Controllers\\UserController.cs",
+              "RelativeToolTip": "WorkPlatformBn\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAWwC4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T12:11:05.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Category.cs",
               "DocumentMoniker": "D:\\TrivexTech Pvt Ltd\\Project\\WorkPlatform\\Backend\\WorkPlatformBn\\WorkPlatformBn\\Model\\Category.cs",
               "RelativeDocumentMoniker": "WorkPlatformBn\\Model\\Category.cs",
               "ToolTip": "D:\\TrivexTech Pvt Ltd\\Project\\WorkPlatform\\Backend\\WorkPlatformBn\\WorkPlatformBn\\Model\\Category.cs",
               "RelativeToolTip": "WorkPlatformBn\\Model\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-07T08:01:39.597Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 16,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "D:\\TrivexTech Pvt Ltd\\Project\\WorkPlatform\\Backend\\WorkPlatformBn\\WorkPlatformBn\\Model\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "WorkPlatformBn\\Model\\ApplicationDbContext.cs",
@@ -77,39 +264,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 12,
               "Title": "WorkerCategory.cs",
               "DocumentMoniker": "D:\\TrivexTech Pvt Ltd\\Project\\WorkPlatform\\Backend\\WorkPlatformBn\\WorkPlatformBn\\Model\\WorkerCategory.cs",
               "RelativeDocumentMoniker": "WorkPlatformBn\\Model\\WorkerCategory.cs",
               "ToolTip": "D:\\TrivexTech Pvt Ltd\\Project\\WorkPlatform\\Backend\\WorkPlatformBn\\WorkPlatformBn\\Model\\WorkerCategory.cs",
               "RelativeToolTip": "WorkPlatformBn\\Model\\WorkerCategory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-07T07:57:07.613Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "UserRequestModel.cs",
               "DocumentMoniker": "D:\\TrivexTech Pvt Ltd\\Project\\WorkPlatform\\Backend\\WorkPlatformBn\\WorkPlatformBn\\Model\\Request\\UserRequestModel.cs",
               "RelativeDocumentMoniker": "WorkPlatformBn\\Model\\Request\\UserRequestModel.cs",
               "ToolTip": "D:\\TrivexTech Pvt Ltd\\Project\\WorkPlatform\\Backend\\WorkPlatformBn\\WorkPlatformBn\\Model\\Request\\UserRequestModel.cs",
               "RelativeToolTip": "WorkPlatformBn\\Model\\Request\\UserRequestModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-07T07:54:26.067Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 15,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\TrivexTech Pvt Ltd\\Project\\WorkPlatform\\Backend\\WorkPlatformBn\\WorkPlatformBn\\Model\\User.cs",
               "RelativeDocumentMoniker": "WorkPlatformBn\\Model\\User.cs",
               "ToolTip": "D:\\TrivexTech Pvt Ltd\\Project\\WorkPlatform\\Backend\\WorkPlatformBn\\WorkPlatformBn\\Model\\User.cs",
               "RelativeToolTip": "WorkPlatformBn\\Model\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-07T07:23:50.565Z",
               "EditorCaption": ""
