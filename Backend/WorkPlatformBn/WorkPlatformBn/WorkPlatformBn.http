@@ -1,0 +1,6 @@
+@WorkPlatformBn_HostAddress = http://localhost:5071
+
+GET {{WorkPlatformBn_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
