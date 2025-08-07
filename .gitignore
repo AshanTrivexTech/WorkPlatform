@@ -1,0 +1,76 @@
+## Build results
+bin/
+obj/
+out/
+
+## User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Visual Studio Code
+.vscode/
+.history/
+**/.vs/       # <-- Changed this line to apply recursively
+
+## Rider
+.idea/
+
+## ASP.NET Core
+appsettings.Development.json
+appsettings.*.json
+secrets.json
+
+## Logs
+*.log
+logs/
+Logs/
+
+## DotCover
+*.dotCover
+
+## Database files
+*.mdf
+*.ldf
+
+## npm & Node
+node_modules/
+dist/
+
+## Publish directory
+publish/
+
+## Entity Framework
+Migrations/
+
+## Backup & archive
+*.bak
+*.zip
+*.tar.gz
+*.rar
+
+## ReSharper
+_ReSharper*/
+*.DotSettings.user
+
+## Coverage reports
+coverage/
+TestResults/
+
+## Temporary files
+*.tmp
+*.temp
+~$*
+Backend/.vs/ProjectEvaluation/travelmatebackend.metadata.v9.bin
+Backend/.vs/ProjectEvaluation/travelmatebackend.projects.v9.bin
+Backend/.vs/ProjectEvaluation/travelmatebackend.strings.v9.bin
+Backend/.vs/TravelMateBackend/DesignTimeBuild/.dtbcache.v2
+Backend/.vs/TravelMateBackend/FileContentIndex/7dda2785-95d1-45f5-966b-b36f54f105ad.vsidx
+Backend/.vs/TravelMateBackend/v17/.futdcache.v2
+Backend/.vs/TravelMateBackend/v17/DocumentLayout.backup.json
+Backend/.vs/TravelMateBackend/v17/DocumentLayout.json
+/Backend/.vs/TravelMate/DesignTimeBuild/*.v2
+/Backend/.vs/TravelMate/FileContentIndex/*.vsidx
+/Backend/.vs/TravelMate/config/*.config
+/Backend/.vs/TravelMate/v17/*.json
